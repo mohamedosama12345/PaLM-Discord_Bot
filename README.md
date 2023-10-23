@@ -14,7 +14,7 @@ Casual Chatting:
 
 Coding:
 
-![](https://github.com/mohamedosama12345/PaLM-Discord_Bot/blob/main/images/image_2.png)
+![Coding](https://github.com/mohamedosama12345/PaLM-Discord_Bot/blob/main/images/image_2.png)
 
 ## Command
 
