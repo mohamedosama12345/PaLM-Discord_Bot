@@ -43,11 +43,8 @@ Go to [MakerSuite](https://makersuite.google.com/app/apikey), and create an API 
 2. `pip install discord google-generativeai`
 3. `cd PaLM-Discord-Bot`
 4. `notepad main.py`
-5. replace with your Discord API Key and PaLM API Key at following lines: 
-    `palm.configure(api_key = "PaLM_API_KEY")`
-    `client.run("DISCORD_TOKEN")`
+5. replace with your Discord API Key and PaLM API Key at following lines:  `palm.configure(api_key = "PaLM_API_KEY")` `client.run("DISCORD_TOKEN")`
 6. `python main.py`
-
 
 ## Reference: 
 
