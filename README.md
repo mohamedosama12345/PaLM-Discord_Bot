@@ -8,8 +8,8 @@ Discord only can handle 2000 characters per message, so I manually set the PaLM 
 
 
 ## Example:
-![](images\image_1.png)
-![](images\image_2.png)
+![](https://github.com/mohamedosama12345/PaLM-Discord_Bot/blob/main/images/image_1.png)
+![](https://github.com/mohamedosama12345/PaLM-Discord_Bot/blob/main/images/image_2.png)
 
 ## Command
 
