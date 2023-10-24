@@ -20,13 +20,10 @@ model = palm.types.Model(
 )
 
 def chat_completion(message: str) -> str:
-    response = palm.chat(messages=message, candidate_count=0)
-    if response is None:
-        return "An error occurred while processing your request."
-    if hasattr(response, 'content'):
-        return response.content
-    else:
-        return "An error occurred while processing your request."
+# Get the PaLM API response
+    response = palm.chat(messages=message, candidate_count = 0)
+    output = response.messages[1]
+    return output['content']
 
 def run():
     client = DiscordClient()
